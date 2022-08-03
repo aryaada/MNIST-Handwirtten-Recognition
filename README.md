@@ -1,1 +1,1 @@
-# MNIST-Handwirtten-Recognition
+# MNIST Handwritten Digit Recognition
